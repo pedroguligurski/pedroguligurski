@@ -1,4 +1,4 @@
-- Hello, I’m Pedro Guligurski 👋
+[Pedro Guligurski] - Developer
   
 ![Capa do Perfil](https://img.freepik.com/fotos-premium/um-macaco-preto-com-um-grande-sorriso-no-rosto_902338-24205.jpg?w=826)
 
