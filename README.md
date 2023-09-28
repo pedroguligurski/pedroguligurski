@@ -1,11 +1,12 @@
-[Pedro Guligurski] - Developer
-  
-![Capa do Perfil](https://img.freepik.com/fotos-premium/um-macaco-preto-com-um-grande-sorriso-no-rosto_902338-24205.jpg?w=826)
+# Pedro Guligurski - Developer
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my GitHub profile, I'm a young junior developer who is very interested in collaborating and learning new things!
+  
+## About me
+
+- 🎓 Currently pursuing a Bachelor's degree in Software Engineering at FAG.
+- lala
+
 
 <!---
 pedroguligurski/pedroguligurski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
