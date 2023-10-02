@@ -10,8 +10,7 @@ Welcome to my GitHub profile, I'm a young junior developer who is very intereste
 ## Contact
 
 - 📧 Email: pedro.sguligurski@gmail.com
-- 💼 LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 🌐 Website/Portfólio: [Seu Website/Portfólio](https://www.seuportfolio.com)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pedroguligurski)
 
 
 <!---
