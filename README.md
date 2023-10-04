@@ -5,15 +5,20 @@ Welcome to my GitHub profile, I'm a young junior developer who is very intereste
 ## About me
 
 - 🎓 Currently pursuing a Bachelor's degree in Software Engineering at FAG.
-- lala
+- 🌍 Living in Paraná, Brazil.
 
 ## Contact
 
 - 📧 Email: pedro.sguligurski@gmail.com
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pedroguligurski)
 
+## Skills
+
+
+
+
 
 <!---
 pedroguligurski/pedroguligurski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 
