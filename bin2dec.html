@@ -15,14 +15,14 @@
     </div>
 
     <script>
-        let binary = " "
+        let binary = " ";
 
         function calcDec(bin) {
             let index = (bin.length) - 1;
             let decimal = 0;
 
             for(index; index >= 0; index--) {
-                decimal += parseInt(bin[index]) *Math.pow(2, bin.length-1-index)
+                decimal += parseInt(bin[index]) *Math.pow(2, bin.length-1-index);
             }
             console.log(decimal);
             return decimal;
