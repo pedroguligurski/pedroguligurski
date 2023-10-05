@@ -5,18 +5,19 @@ Welcome to my GitHub profile, I'm a young junior developer who is very intereste
 ## About me
 
 - 🎓 Currently pursuing a Bachelor's degree in Software Engineering at FAG.
+- 👨‍💻 Studying programming and open to job offers, continually expanding my knowledge.
 - 🌍 Living in Paraná, Brazil.
+
+## Skills
+
+Here are some of my key skills:
+- **Programming languages:** Javascript, C;
+- **Front-end:** HTML, CSS.
 
 ## Contact
 
 - 📧 Email: pedro.sguligurski@gmail.com
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pedroguligurski)
-
-## Skills
-
-
-
-
 
 <!---
 pedroguligurski/pedroguligurski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
