@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style></style>
+    <title>Bin 2 Dec</title>
+</head>
+<body>
+    
+    <div>
+        Enter a binary value (0 - 8): <br>
+        <input type="text" id="binary" value=""> <br> <br>
+        <input type="button" value="Get Decimal" onclick="getDec()">
+        <p id="results"></p>
+    </div>
+
+    <script>
+        let binary = " "
+
+        function calcDec(bin) {
+            let index = (bin.length) - 1;
+            let decimal = 0;
+
+            for(index; index >= 0; index--) {
+                decimal += parseInt(bin[index]) *Math.pow(2, bin.length-1-index)
+            }
+            console.log(decimal);
+            return decimal;
+        }
+
+        function getDec() {
+            let binary = document.getElementById("binary").value;
+            document.getElementById("results").textContent = `The decimal value of ${binary} is ${calcDec(binary)}.`;
+        }
+    </script>
+</body>
+</html>
