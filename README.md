@@ -13,6 +13,7 @@ Welcome to my GitHub profile, I'm a young junior developer who is very intereste
 ## Skills
 
 Here are some of my key skills:
+- **Principal language:** Python;
 - **Programming languages:** Javascript, C;
 - **Front-end:** HTML, CSS.
 
