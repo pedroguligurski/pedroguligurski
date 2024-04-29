@@ -20,7 +20,7 @@ Here are some of my key skills:
 
 ## Contact
 
-- 📧 Email: pedro.sguligurski@gmail.com
+- 📧 Email: pedro.hsguligurski@gmail.com
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pedroguligurski)
 
 <!---
