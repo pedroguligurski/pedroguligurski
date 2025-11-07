@@ -1,27 +1,35 @@
-# Pedro Guligurski - Developer
+# 👋 Hi, I'm Pedro Guligurski
 
-Welcome to my GitHub profile, I'm a young junior developer who is very interested in collaborating and learning new things!
-
-
-## About me
-
-- 🎓 Currently pursuing a Bachelor's degree in Software Engineering at FAG.
-- 👨‍💻 Studying programming and open to job offers, continually expanding my knowledge.
-- 🌍 Living in Paraná, Brazil.
+I'm a Fullstack Developer passionate about building intelligent and scalable software solutions.
+Currently focused on AI-powered ChatBots and Autonomous Agents, I love blending backend logic with engaging front-end experiences.
 
 
-## Skills
+## 🧠 About me
 
-Here are some of my key skills:
-- **Principal language:** Python;
-- **Programming languages:** Javascript, TypeScript, C#;
-- **Front-end:** Vite, Tailwind.
+- 🎓 Pursuing a Bachelor’s degree in Information Systems at PUCPR (Pontifical Catholic University of Paraná).
+- 💼 Working as a Fullstack Developer, continuously improving my skills and exploring new technologies.
+- 🌍 Based in Curitiba, Brazil.
+- 🤖 Enthusiastic about Artificial Intelligence, especially its applications in conversational systems and automation.
 
 
-## Contact
+## 🛠️ Tech Stack
 
-- 📧 Email: pedro.hsguligurski@gmail.com
-- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pedroguligurski)
+**Languages & Frameworks:**
+  - TypeScript • JavaScript • Python • C#
+  - Node.js • React.js • Vue.js
+
+**Tools & Technologies:**
+  - Docker • Git • RESTful APIs • Vite • Tailwind CSS
+
+**Focus Areas:**
+  - Fullstack Web Development
+  - Intelligent ChatBots & AI Agents
+  - Scalable API Architecture
+
+## 📫 Get in Touch
+  - 📧 Email: pedro.hsguligurski@gmail.com
+  - [💼 LinkedIn: linkedin.com/in/pedroguligurski](https://www.linkedin.com/in/pedroguligurski)
+  - [💻 GitHub: github.com/pedroguligurski](github.com/pedroguligurski)
 
 <!---
 pedroguligurski/pedroguligurski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
