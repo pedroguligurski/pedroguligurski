@@ -28,8 +28,8 @@ Currently focused on AI-powered ChatBots and Autonomous Agents, I love blending 
 
 ## 📫 Get in Touch
   - 📧 Email: pedro.hsguligurski@gmail.com
-  - [💼 LinkedIn: linkedin.com/in/pedroguligurski](https://www.linkedin.com/in/pedroguligurski)
-  - [💻 GitHub: github.com/pedroguligurski](github.com/pedroguligurski)
+  - 💼 LinkedIn: linkedin.com/in/pedroguligurski
+  - 💻 GitHub: github.com/pedroguligurski
 
 <!---
 pedroguligurski/pedroguligurski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
