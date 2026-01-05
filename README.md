@@ -1,37 +1,48 @@
-# 👋 Hi, I'm Pedro Guligurski
+# Hi, I'm Pedro Guligurski 👋
+**Fullstack Software Engineer | Specialized in AI Agents & Scalable Architectures**
 
-I'm a Fullstack Developer passionate about building intelligent and scalable software solutions.
-Currently focused on AI-powered ChatBots and Autonomous Agents, I love blending backend logic with engaging front-end experiences.
+I am a Fullstack Developer with a solid background in building production-ready applications. My expertise lies in bridging complex backend logic (Node.js/Python) with intuitive, high-performance front-end experiences (React/Vue). 
 
+Currently, I'm heavily focused on the **AI Ecosystem**, developing autonomous agents and intelligent automation to solve real-world business problems.
 
-## 🧠 About me
+---
 
-- 🎓 Pursuing a Bachelor’s degree in Information Systems at PUCPR (Pontifical Catholic University of Paraná).
-- 💼 Working as a Fullstack Developer, continuously improving my skills and exploring new technologies.
-- 🌍 Based in Curitiba, Brazil.
-- 🤖 Enthusiastic about Artificial Intelligence, especially its applications in conversational systems and automation.
+### ⚡ Quick Overview
+- 🛠 Building scalable fullstack solutions with **TypeScript, Node.js, and Python**.
+- 🤖 Architecting **AI-powered workflows** (LLMs, RAG, and Autonomous Agents).
+- ☁️ Experienced in modern DevOps practices, containerization (**Docker**), and CI/CD.
+- 🌍 Based in Brazil, working globally. **Fluent in English (B2)** and Portuguese.
 
+---
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack & Expertise
 
-**Languages & Frameworks:**
-  - TypeScript • JavaScript • Python • C#
-  - Node.js • React.js • Vue.js
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Node.js, TypeScript, Python (FastAPI/Flask), RESTful APIs |
+| **Frontend** | React.js, Vue.js, Next.js, Tailwind CSS, State Management |
+| **AI & Automation** | OpenAI API, LangChain, LlamaIndex, Vector Databases |
+| **Tools & DevOps** | Docker, Git, Vite, PostgreSQL |
 
-**Tools & Technologies:**
-  - Docker • Git • RESTful APIs • Vite • Tailwind CSS
-
-**Focus Areas:**
-  - Fullstack Web Development
-  - Intelligent ChatBots & AI Agents
-  - Scalable API Architecture
-
-## 📫 Get in Touch
-  - 📧 Email: pedro.hsguligurski@gmail.com
-  - 💼 LinkedIn: linkedin.com/in/pedroguligurski
-  - 💻 GitHub: github.com/pedroguligurski
+---
 
 <!---
-pedroguligurski/pedroguligurski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+### 🧪 Featured Projects
+*(Dica: Coloque aqui 2 ou 3 repositórios que tenham código IMPECÁVEL. Se não tiver, priorize limpar os seus top 3)*
+
+- **[Project Name]**: A brief description of the problem you solved and the tech used.
+- **[AI Agent System]**: Describe how you integrated LLMs into a functional product.
+
+---
+
+
+### 📈 GitHub Stats
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroguligurski&show_icons=true&theme=transparent)
+
+---
+--->
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/pedroguligurski](https://linkedin.com/in/pedroguligurski)
+- **Email:** [pedro.hsguligurski@gmail.com](mailto:pedro.hsguligurski@gmail.com)
+<!--- - **Portfolio:** [Link to your personal site, if any]--->
